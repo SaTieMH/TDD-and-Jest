@@ -1,7 +1,6 @@
 Antes de começar os testes
 ---------------------------
-'''
-```console
+```bash
 @teste:~$ npm init
 
 @teste:~$ npm install jest --save
@@ -10,7 +9,6 @@ Antes de começar os testes
 
 @teste:~$ npx jest --watchAll
 ```
-'''
 
 
 TDD and Jest
