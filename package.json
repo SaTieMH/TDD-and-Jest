@@ -1,0 +1,22 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "description": "TDD and Jest\r -------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaTieMH/TDD-and-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaTieMH/TDD-and-Jest/issues"
+  },
+  "homepage": "https://github.com/SaTieMH/TDD-and-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
