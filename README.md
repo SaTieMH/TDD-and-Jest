@@ -5,6 +5,7 @@
 @teste:~$ npx jest
 @teste:~$ npx jest --watchAll
 ```
+*obs: <arquivo_de_teste>.test.js
 
 # TDD and Jest
 ## O que é TDD
