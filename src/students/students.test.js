@@ -8,7 +8,7 @@ describe('Testes para alunos', function() {
         expect(student.sum(notes)).toEqual(10);
     });
 
-    it('Deve retornar zero quando uma das notas for zero', function() {
+    test('Deve retornar zero quando uma das notas for zero', function() {
         const notes = [1, 2, 3, 0];
         expect(student.sum(notes)).toEqual(0);
     });
